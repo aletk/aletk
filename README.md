@@ -1,4 +1,4 @@
-[![aletk](https://github-readme-stats.vercel.app/api?username=aletk&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)  ![Ale.e tryhackme stats](https://raw.githubusercontent.com/aletk/aletk/master/assets/thm_propic.png)][tryhackme]
+[![aletk](https://github-readme-stats.vercel.app/api?username=aletk&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)  ![Ale.e tryhackme stats](https://raw.githubusercontent.com/aletk/aletk/master/assets/thm_propic.png)]![tryhackme]
 
 
 [![aletk](https://github-readme-stats.vercel.app/api/top-langs/?username=aletk&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)   
