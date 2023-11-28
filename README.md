@@ -11,7 +11,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=aletk&hide=html&layout=compact&theme=highcontrast"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=aletk&hide=html&layout=compact&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true"
         alt="Github stats"
       />
     </td>
