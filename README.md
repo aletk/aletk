@@ -1,5 +1,35 @@
-[![aletk](https://github-readme-stats.vercel.app/api?username=aletk&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)  ![Ale.e tryhackme stats](https://raw.githubusercontent.com/aletk/aletk/master/assets/thm_propic.png)]![tryhackme]
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://https://github-readme-stats.vercel.app/api?username=aletk&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true"
+        alt="Github stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://raw.githubusercontent.com/aletk/aletk/master/assets/thm_propic.png"
+        alt="Try Hackme Status"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=victormoreiraofc&theme=dark&hide_border=false"
+        alt="Github stats"
+      />
+    </td>
+  </tr>
+</table>
+<br />
 
+ ![Ale.e tryhackme stats](https://raw.githubusercontent.com/aletk/aletk/master/assets/thm_propic.png)]]
+
+
+[![aletk](https://github-readme-stats.vercel.app/api?username=aletk&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) 
 
 [![aletk](https://github-readme-stats.vercel.app/api/top-langs/?username=aletk&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)   
 
