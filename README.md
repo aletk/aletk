@@ -8,13 +8,6 @@
       />
     </td>
     <td>
-      <img
-        align="left"
-        src="https://raw.githubusercontent.com/aletk/aletk/master/assets/thm_propic.png"
-        alt="Try Hackme Status"
-      />
-    </td>
-    <td>
       <br />
       <img
         align="left"
@@ -29,9 +22,6 @@
  ![Ale.e tryhackme stats](https://raw.githubusercontent.com/aletk/aletk/master/assets/thm_propic.png)]]
 
 
-[![aletk](https://github-readme-stats.vercel.app/api?username=aletk&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) 
-
-[![aletk](https://github-readme-stats.vercel.app/api/top-langs/?username=aletk&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)   
 
 ```python
 import Desenvolvedor from "Alessandro";
