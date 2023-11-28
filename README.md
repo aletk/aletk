@@ -1,7 +1,7 @@
 [![aletk](https://github-readme-stats.vercel.app/api?username=aletk&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 
-[![aletk](https://github-readme-stats.vercel.app/api/top-langs/?username=aletk&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+[![aletk](https://github-readme-stats.vercel.app/api/top-langs/?username=aletk&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)   ![Ale.e tryhackme stats](https://raw.githubusercontent.com/aletk/aletk/master/assets/thm_propic.png)][tryhackme]
 
 ```python
 import Desenvolvedor from "Alessandro";
@@ -21,7 +21,7 @@ class Skills  Desenvolvedor(SobreMim):
     conhecimentos_gerais = ["Regras-de-negocio", "SAP-B1", "HANA", "Regras-Fiscais", "Linux", "Windows", "Redes" ]
 
 ```
-![Ale.e tryhackme stats](https://raw.githubusercontent.com/aletk/aletk/master/assets/thm_propic.png)][tryhackme]
+
 
 <p align="left">
   <a href="#" title="LinkedIn">
