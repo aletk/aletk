@@ -18,7 +18,7 @@
       <br />
       <img
         align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=victormoreiraofc&theme=dark&hide_border=false"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=aletk&hide=html&layout=compact&theme=highcontrast"
         alt="Github stats"
       />
     </td>
