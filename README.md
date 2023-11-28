@@ -19,7 +19,7 @@ class Skills  Desenvolvedor(SobreMim):
     conhecimentos_gerais = ["Regras-de-negocio", "SAP-B1", "HANA", "Regras-Fiscais", "Linux", "Windows", "Redes" ]
 
 ```
-![Ale.e tryhackme stats](https://raw.githubusercontent.com/aletk/aletk/assets/thm_propic.png)][tryhackme]
+![Ale.e tryhackme stats](https://raw.githubusercontent.com/aletk/aletk/master/assets/thm_propic.png)][tryhackme]
 
 <p align="left">
   <a href="#" title="LinkedIn">
