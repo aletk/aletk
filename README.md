@@ -35,6 +35,10 @@ from Alessandro import Desenvolvedor
 from Alessandro import CyberSec
 
 class SobreMim (Desenvolvedor, CyberSec):
+    """_SobreMimr_
+    Classe responsável por conter informações sobre mim 
+    """
+
     nome = "Alessandro"
     area = "Desenvolvedor / CyberSec"
     trabalho = "Invent-Software"
@@ -42,6 +46,9 @@ class SobreMim (Desenvolvedor, CyberSec):
 
 
 class Skills (SobreMim):
+    """_Skills_
+    Classe responsável por conter algumas das minhas skills na área da tecnologia. 
+    """
 
     linguagens = ["Python", "Bash", "TSQL", "C#", "JavaScript"]
     bibliotecas = ["Linq", "Socket", "pandas", "selenium", "Scapy", "Entre diversos Outros"]
