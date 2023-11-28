@@ -20,7 +20,7 @@ class Skills  Desenvolvedor(SobreMim):
 
 ```
 <img src="https://tryhackme-badges.s3.amazonaws.com/Ale.e.png" alt="TryHackMe">
-
+![tryhackme stats](https://raw.githubusercontent.com/</Ale.e>/</Ale.e>/master/assets/thm_propic.png)
 <p align="left">
 
   <a href="#" title="LinkedIn">
