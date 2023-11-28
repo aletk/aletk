@@ -35,7 +35,7 @@ from Alessandro import Desenvolvedor
 from Alessandro import CyberSec
 
 class SobreMim (Desenvolvedor, CyberSec):
-    """_SobreMimr_
+    """_SobreMim_
     Classe responsável por conter informações sobre mim 
     """
 
