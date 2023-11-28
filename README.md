@@ -19,25 +19,26 @@
 </table>
 <br />
 
- ![Ale.e tryhackme stats](https://raw.githubusercontent.com/aletk/aletk/master/assets/thm_propic.png)]]
+ ![Ale.e tryhackme stats](https://raw.githubusercontent.com/aletk/aletk/master/assets/thm_propic.png)
 
 
 
 ```python
 import Desenvolvedor from "Alessandro";
+import CyberSec from "Alessandro";
 
-class SobreMim Desenvolvedor():
-    nome = "Alessandro";
-    area = "Desenvolvedor / CyberSec";
-    trabalho = "Invent-Software";
-    local = "Goiânia-GO";
+class SobreMim (Desenvolvedor, CyberSec):
+    nome = "Alessandro"
+    area = "Desenvolvedor / CyberSec"
+    trabalho = "Invent-Software"
+    local = "Goiânia-GO"
 
 
-class Skills  Desenvolvedor(SobreMim):
+class Skills (SobreMim):
 
-    linguagens = ["Python", "Bash", "TSQL", "C#", "JavaScript"];
-    bibliotecas = ["Linq", "Socket", "pandas", "selenium", "Scapy", "Entre diversos Outros"];
-    frameworks = [".Net-core" ".Net-Framework", "Django", "React", "SAPIU5"];
+    linguagens = ["Python", "Bash", "TSQL", "C#", "JavaScript"]
+    bibliotecas = ["Linq", "Socket", "pandas", "selenium", "Scapy", "Entre diversos Outros"]
+    frameworks = [".Net-core" ".Net-Framework", "Django", "React", "SAPIU5"]
     conhecimentos_gerais = ["Regras-de-negocio", "SAP-B1", "HANA", "Regras-Fiscais", "Linux", "Windows", "Redes" ]
 
 ```
