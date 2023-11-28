@@ -1,18 +1,33 @@
-### Hi there 👋
+
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Ale.e.png" alt="TryHackMe">
 
-<!--
-**aletk/aletk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![aletk](https://github-readme-stats.vercel.app/api?username=aletk&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[![aletk](https://github-readme-stats.vercel.app/api/top-langs/?username=aletk&hide=html&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+```python
+import Desenvolvedor from "Alessandro";
+
+class SobreMim Desenvolvedor():
+    nome = "Alessandro";
+    area = "Desenvolvedor / CyberSec";
+    trabalho = "Invent-Software";
+    local = "Goiânia-GO";
+
+
+class Skills  Desenvolvedor(SobreMim):
+
+    linguagens = ["Python", "Bash", "TSQL", "C#", "JavaScript"];
+    bibliotecas = ["Linq", "Socket", "pandas", "selenium", "Scapy", "Entre diversos Outros"];
+    frameworks = [".Net-core" ".Net-Framework", "Django", "React", "SAPIU5"];
+    conhecimentos_gerais = ["Regras-de-negocio", "SAP-B1", "HANA", "Regras-Fiscais", "Linux", "Windows", "Redes" ]
+
+```
+
+<p align="left">
+
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandro-dos-santos-5a1856214/" alt="LinkedIn"/></a>
+</p>
