@@ -31,8 +31,8 @@
 
 
 ```python
-import Desenvolvedor from "Alessandro";
-import CyberSec from "Alessandro";
+from Alessandro import Desenvolvedor
+from Alessandro import CyberSec
 
 class SobreMim (Desenvolvedor, CyberSec):
     nome = "Alessandro"
