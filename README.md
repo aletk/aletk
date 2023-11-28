@@ -19,10 +19,9 @@ class Skills  Desenvolvedor(SobreMim):
     conhecimentos_gerais = ["Regras-de-negocio", "SAP-B1", "HANA", "Regras-Fiscais", "Linux", "Windows", "Redes" ]
 
 ```
-<img src="https://tryhackme-badges.s3.amazonaws.com/Ale.e.png" alt="TryHackMe">
 ![tryhackme stats](https://raw.githubusercontent.com/</Ale.e>/</Ale.e>/master/assets/thm_propic.png)
-<p align="left">
 
+<p align="left">
   <a href="#" title="LinkedIn">
   <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alessandro-dos-santos-5a1856214/" alt="LinkedIn"/></a>
 </p>
