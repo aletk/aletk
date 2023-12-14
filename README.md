@@ -52,7 +52,7 @@ class Skills (SobreMim):
 
     linguagens = ["Python", "Bash", "TSQL", "C#", "JavaScript"]
     bibliotecas = ["Linq", "Socket", "pandas", "selenium", "Scapy", "Entre diversos Outros"]
-    frameworks = [".Net-core" ".Net-Framework", "Django", "React", "SAPIU5"]
+    frameworks = [".Net-core" ".Net-Framework", "Django", "React", "SAPUI5"]
     conhecimentos_gerais = ["Regras-de-negocio", "SAP-B1", "HANA", "Regras-Fiscais", "Linux", "Windows", "Redes" ]
 
 ```
