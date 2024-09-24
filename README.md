@@ -27,8 +27,6 @@
   </a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aletk&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-
 ```python
 from Alessandro import Desenvolvedor
 from Alessandro import CyberSec
